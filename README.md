@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there :pencil:
 
-<!--
-**Williancosta98/Williancosta98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o Willian Costa, sou um Programador Front End, atualmente estou apredendo e criando projetos com:
+<br>
+<br>
+ - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
 
-Here are some ideas to get you started:
+e iniciando o aprendizado de JavaScript e React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Willian Stats](https://github-readme-stats.vercel.app/api?username=Williancosta98)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Williancosta98)](https://github.com/anuraghazra/github-readme-stats)
+
